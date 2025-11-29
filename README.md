@@ -10,7 +10,7 @@
 - 📊 Interested in **Data Science, Machine Learning, and AI**
 - 🌱 Currently learning **Pandas, NumPy, Scikit-learn, and basic Deep Learning**
 - 🤝 Open to collaborate on **data science projects and ML experiments**
-- 📫 Reach me at: **your_email@example.com**  <!-- change this -->
+- 📫 Reach me at: **mohitawasthi2108@gmail.com**  <!-- change this -->
 
 
 ### 🛠️ Tech Stack
